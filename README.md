@@ -1,7 +1,7 @@
 # Presentation
 
 # Vem är jag?
-Jag heter [Ditt namn].
+Jag heter [Pelin].
 
 # Vad vill jag lära mig under utbildningen?
 Jag vill lära mig C#, Git/GitHub och webbutveckling samnt databaser.
