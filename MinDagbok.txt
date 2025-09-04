@@ -1,6 +1,5 @@
-## 📓 Today's Diary
-
-**I think I've been very productive today, and have searched a lot about git and github online to gain a broader knowledge. On the other hand, I have also checked out the information my teacher shared with us on learnpoint**
+ 📓 Today's Diary
+I think I've been very productive today, and have searched a lot about git and github online to gain a broader knowledge. On the other hand, I have also checked out the information my teacher shared with us on learnpoint.
 
 
 
